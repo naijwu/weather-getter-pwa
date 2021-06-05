@@ -1,7 +1,5 @@
-## Weather Getter
-
-☁ Heck yeah
+## Weather Getter ☁
 
 https://goofy-tesla-816ccb.netlify.app/
 
-Yes, goofy tesla FOR SURE
+Heck yeah, goofy tesla for sure
